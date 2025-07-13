@@ -1,0 +1,224 @@
+[
+  {
+    "hash": "3e9ce7942c8a33f30ea8a40e79304d81c2217a60b29dab21b5c7cc3459a76a8f",
+    "files": [
+      ".\\target\\debug\\build\\proc-macro2-8ecdc549423c9909\\build_script_build-8ecdc549423c9909.pdb",
+      ".\\target\\debug\\build\\proc-macro2-8ecdc549423c9909\\build_script_build.pdb"
+    ]
+  },
+  {
+    "hash": "14b77832be042ef0786c2808f2c7463f56c4e64333885335926de8ffda8ae928",
+    "files": [
+      ".\\target\\debug\\build\\generic-array-ee14a9da454cd5b7\\build_script_build-ee14a9da454cd5b7.pdb",
+      ".\\target\\debug\\build\\generic-array-ee14a9da454cd5b7\\build_script_build.pdb"
+    ]
+  },
+  {
+    "hash": "5a109e6643e8d3e88642e3f35e85d2a83e639d07523aa6e99166c48178e965c3",
+    "files": [
+      ".\\target\\debug\\.fingerprint\\anstream-643ba155f6d041ed\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\anstyle-08895e9481f60692\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\anstyle-parse-d0227e261a64d6f1\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\anstyle-query-fcdfcc774baa88c5\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\anstyle-wincon-26a4696d73f37e7a\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\block-buffer-2b67e913104e84f5\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\cfg-if-cd3f576372c49f4d\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\clap-0e0d2e535724c153\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\clap_builder-38259bedb054a6a3\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\clap_derive-ebb062f23bc663b9\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\clap_lex-04d8efe63987fd63\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\colorchoice-e6349ad88341260c\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\cpufeatures-9f86febff85e3916\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\crypto-common-79e9e637c49c88dc\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\digest-282f3a6681820722\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\file_deduplicator-2be8d7e5087dc6d6\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\fs_extra-7a852525a7b0e908\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\generic-array-d6507b7a17c34704\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\generic-array-ee14a9da454cd5b7\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\heck-3e94552a1b91b654\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\is_terminal_polyfill-5699b392d2a4ef46\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\itoa-82e50a6d74a7b471\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\memchr-0bd3b3bd4cd9b0eb\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\once_cell_polyfill-aba2120aada951f5\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\proc-macro2-6a20e463e4a4ca20\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\proc-macro2-8ecdc549423c9909\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\quote-fdeee9df46234d2d\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\ryu-d2a7ab7791ce36e4\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\same-file-e8057ea3f24091d7\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\serde-b2c1f6a637b7c29c\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\serde-f0e00f2ffbef6b75\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\serde_derive-8480e2447d200ff7\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\serde_json-684f31eb2e4c0939\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\serde_json-a1488d8eee8478c7\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\sha2-4f23877d17fb4002\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\strsim-9cdc86e5a20ff7ab\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\syn-c408e9b5a4fa230c\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\typenum-6be563c5bbe02e5a\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\typenum-d94741fc46dc64f4\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\unicode-ident-a3528efee345a255\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\utf8parse-3247c981d533d3e5\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\version_check-793d72f0c6a3aed0\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\walkdir-f2fcc8e501c8d58c\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\winapi-util-a6bde6a8a7fb86e1\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\windows-sys-09d071341ec1d1cc\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\windows-targets-832063ff1bd69dfe\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\windows_x86_64_msvc-a21d0cd880e0be5c\\invoked.timestamp",
+      ".\\target\\debug\\.fingerprint\\windows_x86_64_msvc-b411cb82ddbd4754\\invoked.timestamp",
+      ".\\target\\debug\\build\\generic-array-a0f22693c1710e7e\\invoked.timestamp",
+      ".\\target\\debug\\build\\proc-macro2-3b1f514462257677\\invoked.timestamp",
+      ".\\target\\debug\\build\\serde-738b9b7ceb6d464b\\invoked.timestamp",
+      ".\\target\\debug\\build\\serde_json-518b778109e1414b\\invoked.timestamp",
+      ".\\target\\debug\\build\\typenum-4e45f7be503c3a9e\\invoked.timestamp",
+      ".\\target\\debug\\build\\windows_x86_64_msvc-e8e607e3652a8546\\invoked.timestamp"
+    ]
+  },
+  {
+    "hash": "f5d9b79e5f3297e516c6a01bfca4f5149428dddc6d498bfb5c2a8ea4c4271b8d",
+    "files": [
+      ".\\target\\debug\\build\\proc-macro2-8ecdc549423c9909\\build-script-build.exe",
+      ".\\target\\debug\\build\\proc-macro2-8ecdc549423c9909\\build_script_build-8ecdc549423c9909.exe"
+    ]
+  },
+  {
+    "hash": "1cf329da26403af0a6f10be81d53a9c06302031a854c4741f03f41c9872c2b8e",
+    "files": [
+      ".\\target\\debug\\build\\windows_x86_64_msvc-a21d0cd880e0be5c\\build-script-build.exe",
+      ".\\target\\debug\\build\\windows_x86_64_msvc-a21d0cd880e0be5c\\build_script_build-a21d0cd880e0be5c.exe"
+    ]
+  },
+  {
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "files": [
+      ".\\target\\debug\\.cargo-lock",
+      ".\\target\\debug\\build\\generic-array-a0f22693c1710e7e\\stderr",
+      ".\\target\\debug\\build\\proc-macro2-3b1f514462257677\\stderr",
+      ".\\target\\debug\\build\\serde-738b9b7ceb6d464b\\stderr",
+      ".\\target\\debug\\build\\serde_json-518b778109e1414b\\stderr",
+      ".\\target\\debug\\build\\typenum-4e45f7be503c3a9e\\stderr",
+      ".\\target\\debug\\build\\windows_x86_64_msvc-e8e607e3652a8546\\stderr",
+      ".\\target\\debug\\incremental\\file_deduplicator-0axmlsvri8qy7\\s-h960wvpskn-1unxj8s.lock"
+    ]
+  },
+  {
+    "hash": "e0aab90f7f93f6796323fa15cabee30c5034d57af14ea21d2f31e31e887fb2b5",
+    "files": [
+      ".\\target\\debug\\build\\typenum-d94741fc46dc64f4\\build_script_build-d94741fc46dc64f4.pdb",
+      ".\\target\\debug\\build\\typenum-d94741fc46dc64f4\\build_script_build.pdb"
+    ]
+  },
+  {
+    "hash": "eb6918cc58f455686a8568b311f0f4d40508839a1a7a3f2780a9e3be26ea684d",
+    "files": [
+      ".\\target\\debug\\deps\\file_deduplicator.pdb",
+      ".\\target\\debug\\file_deduplicator.pdb"
+    ]
+  },
+  {
+    "hash": "b078fbfc119c757851349ddf53a9b9a3d3b573d1dcf8aec1780d3948de2686c0",
+    "files": [
+      ".\\target\\debug\\build\\generic-array-ee14a9da454cd5b7\\build-script-build.exe",
+      ".\\target\\debug\\build\\generic-array-ee14a9da454cd5b7\\build_script_build-ee14a9da454cd5b7.exe"
+    ]
+  },
+  {
+    "hash": "e13eda818bf08f34bac7815246f30ebc34c7c0b80da2a1df1309027f61b0149c",
+    "files": [
+      ".\\target\\debug\\build\\serde_json-684f31eb2e4c0939\\build-script-build.exe",
+      ".\\target\\debug\\build\\serde_json-684f31eb2e4c0939\\build_script_build-684f31eb2e4c0939.exe"
+    ]
+  },
+  {
+    "hash": "7feaa9ad6e92df1e14588c7bad77b31ed3c28ee9ac753945c1e59cd6b21fecd7",
+    "files": [
+      ".\\target\\debug\\build\\typenum-d94741fc46dc64f4\\build-script-build.exe",
+      ".\\target\\debug\\build\\typenum-d94741fc46dc64f4\\build_script_build-d94741fc46dc64f4.exe"
+    ]
+  },
+  {
+    "hash": "4eec7784aa991df6dbee3e5e7647566fa452f2045d10e9fc4362d4f815652501",
+    "files": [
+      ".\\target\\debug\\build\\serde_json-684f31eb2e4c0939\\build_script_build-684f31eb2e4c0939.pdb",
+      ".\\target\\debug\\build\\serde_json-684f31eb2e4c0939\\build_script_build.pdb"
+    ]
+  },
+  {
+    "hash": "4242f8e77c933c8f5c2a7c5938f3fff73e35bc984d433284f5bdbbb1b6b553a1",
+    "files": [
+      ".\\target\\debug\\deps\\file_deduplicator.exe",
+      ".\\target\\debug\\file_deduplicator.exe"
+    ]
+  },
+  {
+    "hash": "570956dcfee5df140d220784b16d4baf8b271120352bf64dc8fd0f29fd6893f7",
+    "files": [
+      ".\\target\\debug\\build\\serde-f0e00f2ffbef6b75\\build_script_build-f0e00f2ffbef6b75.pdb",
+      ".\\target\\debug\\build\\serde-f0e00f2ffbef6b75\\build_script_build.pdb"
+    ]
+  },
+  {
+    "hash": "93a4afc37518a1bf7830744017176e1d1946e5df993e47159069839f61fe49ab",
+    "files": [
+      ".\\target\\debug\\.fingerprint\\anstream-643ba155f6d041ed\\dep-lib-anstream",
+      ".\\target\\debug\\.fingerprint\\anstyle-08895e9481f60692\\dep-lib-anstyle",
+      ".\\target\\debug\\.fingerprint\\anstyle-parse-d0227e261a64d6f1\\dep-lib-anstyle_parse",
+      ".\\target\\debug\\.fingerprint\\anstyle-query-fcdfcc774baa88c5\\dep-lib-anstyle_query",
+      ".\\target\\debug\\.fingerprint\\anstyle-wincon-26a4696d73f37e7a\\dep-lib-anstyle_wincon",
+      ".\\target\\debug\\.fingerprint\\block-buffer-2b67e913104e84f5\\dep-lib-block_buffer",
+      ".\\target\\debug\\.fingerprint\\cfg-if-cd3f576372c49f4d\\dep-lib-cfg_if",
+      ".\\target\\debug\\.fingerprint\\clap-0e0d2e535724c153\\dep-lib-clap",
+      ".\\target\\debug\\.fingerprint\\clap_builder-38259bedb054a6a3\\dep-lib-clap_builder",
+      ".\\target\\debug\\.fingerprint\\clap_derive-ebb062f23bc663b9\\dep-lib-clap_derive",
+      ".\\target\\debug\\.fingerprint\\clap_lex-04d8efe63987fd63\\dep-lib-clap_lex",
+      ".\\target\\debug\\.fingerprint\\colorchoice-e6349ad88341260c\\dep-lib-colorchoice",
+      ".\\target\\debug\\.fingerprint\\cpufeatures-9f86febff85e3916\\dep-lib-cpufeatures",
+      ".\\target\\debug\\.fingerprint\\crypto-common-79e9e637c49c88dc\\dep-lib-crypto_common",
+      ".\\target\\debug\\.fingerprint\\digest-282f3a6681820722\\dep-lib-digest",
+      ".\\target\\debug\\.fingerprint\\fs_extra-7a852525a7b0e908\\dep-lib-fs_extra",
+      ".\\target\\debug\\.fingerprint\\generic-array-d6507b7a17c34704\\dep-lib-generic_array",
+      ".\\target\\debug\\.fingerprint\\generic-array-ee14a9da454cd5b7\\dep-build-script-build-script-build",
+      ".\\target\\debug\\.fingerprint\\heck-3e94552a1b91b654\\dep-lib-heck",
+      ".\\target\\debug\\.fingerprint\\is_terminal_polyfill-5699b392d2a4ef46\\dep-lib-is_terminal_polyfill",
+      ".\\target\\debug\\.fingerprint\\itoa-82e50a6d74a7b471\\dep-lib-itoa",
+      ".\\target\\debug\\.fingerprint\\memchr-0bd3b3bd4cd9b0eb\\dep-lib-memchr",
+      ".\\target\\debug\\.fingerprint\\once_cell_polyfill-aba2120aada951f5\\dep-lib-once_cell_polyfill",
+      ".\\target\\debug\\.fingerprint\\proc-macro2-6a20e463e4a4ca20\\dep-lib-proc_macro2",
+      ".\\target\\debug\\.fingerprint\\proc-macro2-8ecdc549423c9909\\dep-build-script-build-script-build",
+      ".\\target\\debug\\.fingerprint\\quote-fdeee9df46234d2d\\dep-lib-quote",
+      ".\\target\\debug\\.fingerprint\\ryu-d2a7ab7791ce36e4\\dep-lib-ryu",
+      ".\\target\\debug\\.fingerprint\\same-file-e8057ea3f24091d7\\dep-lib-same_file",
+      ".\\target\\debug\\.fingerprint\\serde-b2c1f6a637b7c29c\\dep-lib-serde",
+      ".\\target\\debug\\.fingerprint\\serde-f0e00f2ffbef6b75\\dep-build-script-build-script-build",
+      ".\\target\\debug\\.fingerprint\\serde_derive-8480e2447d200ff7\\dep-lib-serde_derive",
+      ".\\target\\debug\\.fingerprint\\serde_json-684f31eb2e4c0939\\dep-build-script-build-script-build",
+      ".\\target\\debug\\.fingerprint\\serde_json-a1488d8eee8478c7\\dep-lib-serde_json",
+      ".\\target\\debug\\.fingerprint\\sha2-4f23877d17fb4002\\dep-lib-sha2",
+      ".\\target\\debug\\.fingerprint\\strsim-9cdc86e5a20ff7ab\\dep-lib-strsim",
+      ".\\target\\debug\\.fingerprint\\syn-c408e9b5a4fa230c\\dep-lib-syn",
+      ".\\target\\debug\\.fingerprint\\typenum-6be563c5bbe02e5a\\dep-lib-typenum",
+      ".\\target\\debug\\.fingerprint\\typenum-d94741fc46dc64f4\\dep-build-script-build-script-build",
+      ".\\target\\debug\\.fingerprint\\unicode-ident-a3528efee345a255\\dep-lib-unicode_ident",
+      ".\\target\\debug\\.fingerprint\\utf8parse-3247c981d533d3e5\\dep-lib-utf8parse",
+      ".\\target\\debug\\.fingerprint\\version_check-793d72f0c6a3aed0\\dep-lib-version_check",
+      ".\\target\\debug\\.fingerprint\\walkdir-f2fcc8e501c8d58c\\dep-lib-walkdir",
+      ".\\target\\debug\\.fingerprint\\winapi-util-a6bde6a8a7fb86e1\\dep-lib-winapi_util",
+      ".\\target\\debug\\.fingerprint\\windows-sys-09d071341ec1d1cc\\dep-lib-windows_sys",
+      ".\\target\\debug\\.fingerprint\\windows-targets-832063ff1bd69dfe\\dep-lib-windows_targets",
+      ".\\target\\debug\\.fingerprint\\windows_x86_64_msvc-a21d0cd880e0be5c\\dep-build-script-build-script-build",
+      ".\\target\\debug\\.fingerprint\\windows_x86_64_msvc-b411cb82ddbd4754\\dep-lib-windows_x86_64_msvc"
+    ]
+  },
+  {
+    "hash": "9f31fe061e07982412481f956433cca7089f9f468dde9949b340deffb0a3bf2c",
+    "files": [
+      ".\\target\\debug\\build\\serde-f0e00f2ffbef6b75\\build-script-build.exe",
+      ".\\target\\debug\\build\\serde-f0e00f2ffbef6b75\\build_script_build-f0e00f2ffbef6b75.exe"
+    ]
+  },
+  {
+    "hash": "7e77f189b9bc8535cdbf30ab78cca8443de6a83bc5fb7bc544e7507318ba5110",
+    "files": [
+      ".\\target\\debug\\build\\windows_x86_64_msvc-a21d0cd880e0be5c\\build_script_build-a21d0cd880e0be5c.pdb",
+      ".\\target\\debug\\build\\windows_x86_64_msvc-a21d0cd880e0be5c\\build_script_build.pdb"
+    ]
+  }
+]
